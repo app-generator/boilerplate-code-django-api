@@ -34,6 +34,8 @@ Fork the project, create a new branch and code the new module / feature
 - Via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker 
 - LIVE Support via [Discord](https://discord.gg/fZC6hup)
 
+<br />
+
 ## Build from sources
 
 @WIP
