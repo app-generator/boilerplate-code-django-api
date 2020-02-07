@@ -1,4 +1,4 @@
-# Django [Boilerplate Code](https://appseed.us/boilerplate-code)
+# Django API [Boilerplate Code](https://appseed.us/boilerplate-code)
 
 Playground **boilerplate code** used by the **[AppSeed](https://appseed.us)** community for simple Django API Servers.
 
